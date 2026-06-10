@@ -1,8 +1,8 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "pm-essentials",
-  "version": "0.1.0",
-  "description": "Core product management skills for Claude Code: PRDs, user stories, prioritization, competitive analysis, and stakeholder updates.",
+  "version": "0.2.0",
+  "description": "Core product management skills for Claude Code: PRDs, user stories, prioritization, competitive analysis, stakeholder updates, and a thinking-frameworks advisor.",
   "owner": {
     "name": "Samvid",
     "url": "https://github.com/JaiHanumanJaiRam"
@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "pm-essentials",
-      "description": "Core product management skills: PRDs, user stories, prioritization frameworks, competitive analysis, and stakeholder updates.",
+      "description": "Core product management skills: PRDs, user stories, prioritization frameworks, competitive analysis, stakeholder updates, and a thinking-frameworks advisor.",
       "source": "./",
       "category": "product-management"
     }

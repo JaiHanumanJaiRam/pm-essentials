@@ -25,6 +25,7 @@ Or from inside Claude Code:
 | `/prioritize` | Rank a backlog with RICE, ICE, value-vs-effort, or weighted scoring — with visible reasoning and a sensitivity check |
 | `/competitive-analysis` | Research competitors and produce a brief with an explicit differentiate / parity / ignore recommendation |
 | `/stakeholder-update` | Write a status update tailored to execs, the team, or customers — honest headline first, risks never buried |
+| `/frameworks` | Describe a problem in your own words and get 2–4 thinking frameworks matched to it (from a library of 45+ PM and consulting frameworks), each briefly applied |
 
 Each command is backed by a skill in `skills/` that Claude also triggers automatically when your request matches — you don't have to use the slash command.
 
@@ -36,6 +37,7 @@ Each command is backed by a skill in `skills/` that Claude also triggers automat
 /prioritize backlog.csv RICE
 /competitive-analysis Linear vs our issue tracker, for roadmap planning
 /stakeholder-update weekly exec update — notes in standup-log.md
+/frameworks our activation rate dropped 15% and I don't know where to start
 ```
 
 ## Structure
