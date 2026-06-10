@@ -40,6 +40,7 @@ Grouped by the problem type they serve. "Best when" tells you the situation that
 - **Double Diamond** — Diverge/converge on problem, then diverge/converge on solution. *Best when:* teams jumping to solutions before agreeing on the problem. *Skip when:* the problem is already well-defined.
 - **Persona / segment grid** — Archetypes with goals, contexts, and behaviors. *Best when:* aligning a team on who you serve and who you don't. *Skip when:* personas would be fiction — too little research.
 - **Empathy map** — What the user says, thinks, does, feels. *Best when:* synthesizing interview notes quickly. *Skip when:* you need quantitative confidence.
+- **10-Star Experience (Chesky/Airbnb)** — Imagine what each tier of experience looks like from 1-star (disaster) through 5-star (expected) up to 10 or 11 stars (absurdly magical, physically impossible to scale). The gap between 5-star and 10-star is where differentiation hides. *Best when:* designing onboarding, key customer touchpoints, or any moment where delight drives word-of-mouth; forces teams past "good enough." *Skip when:* the product is pure utility with no experience layer — users don't tell stories about their tax software.
 
 ## Growth — acquisition, retention, monetization
 
@@ -48,6 +49,8 @@ Grouped by the problem type they serve. "Best when" tells you the situation that
 - **North Star framework** — One metric capturing delivered value, plus 3–5 input metrics teams can move. *Best when:* aligning multiple teams on what "growth" means. *Skip when:* a single metric would distort behavior (early B2B, marketplaces with two sides — use paired metrics).
 - **Retention curve analysis** — Plot cohort retention; flat tail = product-market fit signal, decay to zero = leaky bucket. *Best when:* deciding whether to pour fuel on acquisition. *Skip when:* too few cohorts to read.
 - **Race Car Framework (Lenny/Casey Winters)** — Growth engine vs. turbo boosts vs. lubricants vs. fuel. *Best when:* explaining why one-off launches don't compound. *Skip when:* you need numbers, not metaphor.
+- **Value Ladder** — Map the sequence of offers from free/low-commitment to premium/high-commitment; each rung builds trust and LTV. *Best when:* monetization is stalled because users aren't converting to higher tiers — identifies the missing bridge. *Skip when:* the business is single-product with no upsell path.
+- **Habit Loop (Hooked — Nir Eyal)** — Trigger → action → variable reward → investment; each cycle strengthens the next. *Best when:* designing for engagement, notification strategy, or reducing churn through habit formation. *Skip when:* the product's value is delivered once (one-time purchase, filing a form) — forced engagement loops feel dark.
 
 ## Decision risk — big, hard-to-reverse calls
 
